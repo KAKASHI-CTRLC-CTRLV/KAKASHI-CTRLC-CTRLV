@@ -1,8 +1,6 @@
 <!-- ============================================================
   KAKASHI HATAKE THEMED GITHUB PROFILE README
-  1. Replace every KAKASHI-CTRLC-CTRLV with your GitHub username.
-  2. Create a repo named exactly KAKASHI-CTRLC-CTRLV with this as README.md.
-  3. Optional: add the snake workflow (see bottom of file).
+  Create a repo named exactly KAKASHI-CTRLC-CTRLV and save this as its README.md.
 ============================================================ -->
 
 <!-- ===== ANIMATED HEADER (lightning blue + dark shinobi gradient) ===== -->
@@ -30,12 +28,23 @@
 
 ---
 
-<!-- ===== ADD YOUR OWN KAKASHI GIF/ART HERE (use art you own or have rights to) ===== -->
-
+<!-- ===== KAKASHI IMAGE =====
+  1. Save the image you want to use as  assets/kakashi.png  (or .gif) in this repo
+     (Add file > Upload files, put it in a folder named "assets").
+  2. Keep the block below. A .gif with a pop/zoom-in animation gives the "pop" effect when your profile opens.
+-->
 <p align="center">
-  <img src="https://www.cbr.com/naruto-kakashi-hatake-sharingan-origin/" width="420"/>
+  <img src="assets/kakashi.png" alt="Kakashi" width="460"/>
 </p>
 
+<details>
+<summary align="center">👁️ <b>Click to open the Sharingan</b></summary>
+<p align="center">
+  <img src="assets/kakashi.png" alt="Kakashi Sharingan" width="700"/>
+</p>
+</details>
+
+---
 
 ## 🥷 Ninja Profile
 
@@ -105,16 +114,6 @@ end
 
 ---
 
-## 🐍 Hunting Grounds (Contribution Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KAKASHI-CTRLC-CTRLV/KAKASHI-CTRLC-CTRLV/output/github-snake-dark.svg" alt="snake animation" width="100%"/>
-</p>
-
-<p align="center"><sub>Snake animation appears after you add the workflow at the bottom of this file.</sub></p>
-
----
-
 ## 📈 Chakra Flow (Activity Graph)
 
 <p align="center">
@@ -145,33 +144,3 @@ end
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:334155,100:0f172a&height=140&section=footer&animation=fadeIn" alt="footer"/>
-
-<!-- ============================================================
-  OPTIONAL: SNAKE ANIMATION WORKFLOW
-  Create the file  .github/workflows/snake.yml  in your profile repo:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-permissions:
-  contents: write
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-============================================================ -->
