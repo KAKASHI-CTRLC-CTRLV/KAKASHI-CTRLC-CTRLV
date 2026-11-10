@@ -31,11 +31,11 @@
 ---
 
 <!-- ===== ADD YOUR OWN KAKASHI GIF/ART HERE (use art you own or have rights to) ===== -->
-<!--
+
 <p align="center">
-  <img src="PATH_OR_URL_TO_YOUR_KAKASHI_GIF" width="420"/>
+  <img src="https://gifs.alphacoders.com/gifs/view/13964" width="420"/>
 </p>
--->
+
 
 ## 🥷 Ninja Profile
 
