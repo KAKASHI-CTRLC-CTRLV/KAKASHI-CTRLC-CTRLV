@@ -28,19 +28,25 @@
 
 ---
 
-<!-- ===== KAKASHI IMAGE =====
-  1. Save the image you want to use as  assets/kakashi.png  (or .gif) in this repo
-     (Add file > Upload files, put it in a folder named "assets").
-  2. Keep the block below. A .gif with a pop/zoom-in animation gives the "pop" effect when your profile opens.
+<!-- ===== MY KAKASHI IMAGES =====
+  Put your PNG files in a folder named "assets" in this repo.
+  Rename them: kakashi1.png, kakashi2.png, kakashi3.png (all lowercase).
+  Fewer images? Delete the extra <img> lines. More? Copy a line and use kakashi4.png, etc.
 -->
 <p align="center">
-  <img src="assets/kakashi.png" alt="Kakashi" width="460"/>
+  <img src="assets/kakashi1.png" alt="Kakashi 1" width="460"/>
+</p>
+
+<p align="center">
+  <img src="assets/kakashi2.png" alt="Kakashi 2" width="300"/>
+  &nbsp;&nbsp;
+  <img src="assets/kakashi3.png" alt="Kakashi 3" width="300"/>
 </p>
 
 <details>
 <summary align="center">👁️ <b>Click to open the Sharingan</b></summary>
 <p align="center">
-  <img src="assets/kakashi.png" alt="Kakashi Sharingan" width="700"/>
+  <img src="assets/kakashi1.png" alt="Kakashi Sharingan" width="700"/>
 </p>
 </details>
 
@@ -73,11 +79,11 @@ end
 
 <br>
 
-- 📖 Currently reading: *add your book / manga*
-- 🎮 Currently playing: *add your game*
-- 🎧 Listening to: *add your music*
-- 🐶 Ninja hounds: *add your pets, or wish for them*
-- ⏰ Fun fact: *I show up late but with a good excuse*
+- 📖 Currently reading: My engg. stuff
+- 🎮 Currently playing: Minecraft,
+- 🎧 Listening to: fuji kaze , wind 
+- 🐶 Ninja hounds: want a cats so bad but mom said no T-T
+- ⏰ Fun fact: WHEN I AM HUNGRY , I EAT ;)
 
 </details>
 
