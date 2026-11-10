@@ -34,14 +34,9 @@
   Fewer images? Delete the extra <img> lines. More? Copy a line and use kakashi4.png, etc.
 -->
 <p align="center">
-  <img src="assets/kakashi1.png" alt="Kakashi 1" width="460"/>
+  <img src="assets/kakashi.png" alt="Kakashi" width="460"/>
 </p>
 
-<p align="center">
-  <img src="assets/kakashi2.png" alt="Kakashi 2" width="300"/>
-  &nbsp;&nbsp;
-  <img src="assets/kakashi3.png" alt="Kakashi 3" width="300"/>
-</p>
 
 <details>
 <summary align="center">👁️ <b>Click to open the Sharingan</b></summary>
