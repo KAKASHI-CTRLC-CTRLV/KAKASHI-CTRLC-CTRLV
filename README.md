@@ -33,7 +33,7 @@
 <!-- ===== ADD YOUR OWN KAKASHI GIF/ART HERE (use art you own or have rights to) ===== -->
 
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/13964" width="420"/>
+  <img src="https://www.cbr.com/naruto-kakashi-hatake-sharingan-origin/" width="420"/>
 </p>
 
 
