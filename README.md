@@ -135,8 +135,8 @@ end
 
 <p align="center">
   <a href="https://github.com/KAKASHI-CTRLC-CTRLV"><img src="https://img.shields.io/badge/GitHub-Leaf_Headquarters-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-Message_Hawk-e11d2e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-Summoning_Scroll-334155?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/Bhanu_chandra_007"><img src="https://img.shields.io/badge/Instagram-Message_Hawk-e11d2e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.com/users/bhanuchandras"><img src="https://img.shields.io/badge/Discord-Summoning_Scroll-334155?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Ninja_Mail-00c8ff?style=for-the-badge&logo=gmail&logoColor=0f172a"/></a>
 </p>
 
